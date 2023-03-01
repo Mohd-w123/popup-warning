@@ -37,7 +37,7 @@ const Popup = () => {
         <div className="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabIndex="-1"
             aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div className="modal-dialog">
-                <div className="modal-content">
+                <div className="modal-content modal-container">
                     <div className="modal-header">
                         <h4 className="modal-title mx-2"><i className="fa-solid fa-shield-halved"></i></h4>
                         <h6 className="modal-title" id="staticBackdropLabel">
